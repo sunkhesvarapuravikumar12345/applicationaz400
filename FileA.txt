@@ -1,1 +1,2 @@
 This is File A.
+I made some changes to the file
